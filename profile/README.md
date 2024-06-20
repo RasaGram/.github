@@ -16,5 +16,23 @@ The application will recognize food images and provide complete information abou
 |A012D4KY4339|Muhammad Najmi Kamil|Mobile Development|Universitas Telkom|
 |A012D4KY4333|Wery Holanta Mangera|Mobile Development|Universitas Telkom|
 
+## Machine Learning
+- TensorFlow
+- MobileNet
+- Kaggle
+- Google Collab
+
+## Cloud Computing
+- Cloud Source Repository
+- Cloud SQL
+- Cloud Run
+- Cloud Storage
+
+## Mobile Development
+- Kotlin
+- Glide
+- CameraX
+- Jetpack Compose
+
 
 
