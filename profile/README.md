@@ -13,3 +13,5 @@ The application will recognize food images and provide complete information abou
 |C117D4KY0006|Arib Arkaan F|Cloud Computing|Institut Teknologi Nasional Bandung|
 |A012D4KY4339|Muhammad Najmi Kamil|Mobile Development|Universitas Telkom|
 |A012D4KY4333|Wery Holanta Mangera|Mobile Development|Universitas Telkom|
+
+![RasaGram](https://github.com/RasaGram/.github/assets/44234831/d9710aea-471b-4c7d-88f6-5a09e48296b2)
