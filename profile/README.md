@@ -2,6 +2,8 @@
 RasaGram Application is an innovative solution that aims to help users identify food name and find the nearest restaurant quickly and easily
 The application will recognize food images and provide complete information about the name of the food, recipe, and restaurant nearby.
 
+![RasaGram](https://github.com/RasaGram/.github/assets/44234831/67951c11-2aca-4df8-981d-9b158c2ce2df)
+
 ## Our Team Members
 
 | Bangkit ID | Name | Learning Path | University |
@@ -15,4 +17,4 @@ The application will recognize food images and provide complete information abou
 |A012D4KY4333|Wery Holanta Mangera|Mobile Development|Universitas Telkom|
 
 
-![RasaGram](https://github.com/RasaGram/.github/assets/44234831/67951c11-2aca-4df8-981d-9b158c2ce2df)
+
